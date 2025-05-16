@@ -1,0 +1,66 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\megan\Documents\csc230\assignments\a2\a2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\Debug\a2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>a2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>a2.map</FILE>
+  <FILE>a2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <test_part_a><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>55</LINE></test_part_a>
+  <configure_leds><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>189</LINE></configure_leds>
+  <delay_long><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>359</LINE></delay_long>
+  <delay_short><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>373</LINE></delay_short>
+  <end><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>177</LINE></end>
+  <test_part_b><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>82</LINE></test_part_b>
+  <slow_leds><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>213</LINE></slow_leds>
+  <fast_leds><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>226</LINE></fast_leds>
+  <test_part_c><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>114</LINE></test_part_c>
+  <leds_with_speed><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>239</LINE></leds_with_speed>
+  <test_part_c_loop><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>126</LINE></test_part_c_loop>
+  <test_part_d><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>136</LINE></test_part_d>
+  <encode_letter><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>273</LINE></encode_letter>
+  <test_part_e><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>171</LINE></test_part_e>
+  <WORD05><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>467</LINE></WORD05>
+  <display_message_signal><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>331</LINE></display_message_signal>
+  <fast><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>252</LINE></fast>
+  <done><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>256</LINE></done>
+  <PATTERNS><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>431</LINE></PATTERNS>
+  <search_letter><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>286</LINE></search_letter>
+  <invalid_letter><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>319</LINE></invalid_letter>
+  <found_letter><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>295</LINE></found_letter>
+  <load_pattern><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>299</LINE></load_pattern>
+  <is_off><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>306</LINE></is_off>
+  <load_done><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>312</LINE></load_done>
+  <display_message><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>334</LINE></display_message>
+  <done_message><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>341</LINE></done_message>
+  <delay_long_loop><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>363</LINE></delay_long_loop>
+  <delay><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>388</LINE></delay>
+  <delay_short_loop><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>377</LINE></delay_short_loop>
+  <delay_busywait><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>399</LINE></delay_busywait>
+  <delay_busywait_loop1><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>405</LINE></delay_busywait_loop1>
+  <delay_busywait_exit><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>420</LINE></delay_busywait_exit>
+  <delay_busywait_loop2><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>410</LINE></delay_busywait_loop2>
+  <delay_busywait_loop3><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>415</LINE></delay_busywait_loop3>
+  <WORD00><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>462</LINE></WORD00>
+  <WORD01><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>463</LINE></WORD01>
+  <WORD02><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>464</LINE></WORD02>
+  <WORD03><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>465</LINE></WORD03>
+  <WORD04><FILE>C:\Users\megan\Documents\csc230\assignments\a2\a2\a2-signalling.asm</FILE><LINE>466</LINE></WORD04>
+ </LABELS>
+</ASSEMBLER_INFO>

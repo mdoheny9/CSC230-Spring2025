@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\megan\Documents\csc230\assignments\a1\a1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\megan\Documents\csc230\assignments\a1\a1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\megan\Documents\csc230\assignments\a1\a1\Debug\a1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>a1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>a1.map</FILE>
+  <FILE>a1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <end><FILE>C:\Users\megan\Documents\csc230\assignments\a1\a1\main.asm</FILE><LINE>59</LINE></end>
+  <find_rightmost><FILE>C:\Users\megan\Documents\csc230\assignments\a1\a1\main.asm</FILE><LINE>40</LINE></find_rightmost>
+  <invert_bits><FILE>C:\Users\megan\Documents\csc230\assignments\a1\a1\main.asm</FILE><LINE>51</LINE></invert_bits>
+  <twos_complement_stop><FILE>C:\Users\megan\Documents\csc230\assignments\a1\a1\main.asm</FILE><LINE>79</LINE></twos_complement_stop>
+ </LABELS>
+</ASSEMBLER_INFO>
